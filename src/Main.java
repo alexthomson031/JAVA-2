@@ -3,7 +3,7 @@ public class Main {
         int ticket = (1234);
         System.out.println("Ticket price:" + ticket);
 
-        int disc = ticket/20;
+        int disc = ticket / 20;
         
         System.out.println("Bonus miles: " + disc + "(1 mile per 20 rubles) ");
 
